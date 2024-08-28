@@ -1,5 +1,5 @@
 # Algorithms for Validation
-*Mykel J. Kochenderfer, Syndey M. Katz, Anthony L. Corso, and Robert J. Moss*
+*Mykel J. Kochenderfer, Sydney M. Katz, Anthony L. Corso, and Robert J. Moss*
 
 This book provides a broad introduction to algorithms for validating safety-critical systems. We cover a wide variety of topics related to validation, introducing the underlying mathematical problem formulations and the algorithms for solving them.
 
