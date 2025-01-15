@@ -14,3 +14,4 @@ Please fill in the textbook date shown at the bottom of each page:
 **⚠️ Please fill out:** `<TEXTBOOK_VERSION>`
 
 ### Feedback
+Note, you can write LaTeX by wrapping expressions in dollar signs like $x \sim P(\cdot \mid y)$
